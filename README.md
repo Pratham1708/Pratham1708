@@ -71,12 +71,10 @@ Transcribes videos and provides summaries, Q&A, and sentiment analysis using dee
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jindalpratham68?theme=unicorn&font=baloo&ext=contest&animation=true)
 
-- 🟢 Easy Problems Solved: (auto-fetched)
-- 🟡 Medium Problems Solved: (auto-fetched)
-- 🔴 Hard Problems Solved: (auto-fetched)
-- 🧾 Global Ranking: (shown on card)
-- 🏅 Contest Rating & Ranking: (shown on card)
-- 📅 Daily Submission Streak: (shown on card)
+## 🔥 LeetCode Activity Heatmap
+
+[![Leetcode Stats](https://leetstats-api.herokuapp.com/api?username=jindalpratham68)](https://leetcode.com/u/jindalpratham68/)
+
 
 
 ### ✍️ Dev Quote:
