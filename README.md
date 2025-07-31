@@ -77,6 +77,7 @@ Transcribes videos and provides summaries, Q&A, and sentiment analysis using dee
 
 
 
+
 ### ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
