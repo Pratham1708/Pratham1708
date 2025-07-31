@@ -71,9 +71,6 @@ Transcribes videos and provides summaries, Q&A, and sentiment analysis using dee
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jindalpratham68?theme=unicorn&font=baloo&ext=contest&animation=true)
 
-## 🔥 LeetCode Activity Heatmap
-
-[![Leetcode Stats](https://leetstats-api.herokuapp.com/api?username=jindalpratham68)](https://leetcode.com/u/jindalpratham68/)
 
 
 
