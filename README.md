@@ -32,7 +32,7 @@ Transcribes videos and provides summaries, Q&A, and sentiment analysis using dee
 
 ## 📈 Actuarial Exams:
 - ✅ **CS1 – Actuarial Statistics** – Passed (IAI), Feb 2025  
-- 📝 **CB2 – Business Economics** – Appeared (IAI), May 2025
+- 📝 **CB2 – Business Economics** – Passed (IAI), May 2025
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -66,6 +66,18 @@ Transcribes videos and provides summaries, Q&A, and sentiment analysis using dee
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Pratham1708&theme=radical&margin-w=4)
+
+## 🧠 LeetCode Performance
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jindalpratham68?theme=unicorn&font=baloo&ext=contest&animation=true)
+
+- 🟢 Easy Problems Solved: (auto-fetched)
+- 🟡 Medium Problems Solved: (auto-fetched)
+- 🔴 Hard Problems Solved: (auto-fetched)
+- 🧾 Global Ranking: (shown on card)
+- 🏅 Contest Rating & Ranking: (shown on card)
+- 📅 Daily Submission Streak: (shown on card)
+
 
 ### ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
