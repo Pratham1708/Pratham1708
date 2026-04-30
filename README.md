@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 I am currently pursuing a B.Tech in Artificial Intelligence and Machine Learning at VIPS-TC (GGSIPU).  
-📊 With a strong foundation in mathematics, statistics, and actuarial science, I have cleared the **Actuarial CS1** exam and appeared for **CB2**.  
+📊 With a strong foundation in mathematics, statistics, and actuarial science, I have cleared the **Actuarial CS1** exam,  **Actuarial CB2** exam, **Actuarial CB1** exam, and **Actuarial CS2** exam. 
 💡 I'm passionate about combining AI/ML with data analytics to create intelligent systems that drive real-world impact.  
 🔬 I’ve conducted research in **healthcare analytics**, published papers, and developed tools that bridge the gap between raw data and actionable insights.
 
@@ -33,6 +33,8 @@ Transcribes videos and provides summaries, Q&A, and sentiment analysis using dee
 ## 📈 Actuarial Exams:
 - ✅ **CS1 – Actuarial Statistics** – Passed (IAI), Feb 2025  
 - 📝 **CB2 – Business Economics** – Passed (IAI), May 2025
+- ✅ **CS2 – Risk Modelling and Survival Analysis** – Passed (IAI), Nov 2025
+- 📝 **CB1 – Business Finance** – Passed (IAI), Nov 2025
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
